@@ -47,7 +47,7 @@ The Python code to plot fire perimeter and topography in idealized cases can be 
    def wrf_out_read (dir, time):
       mins= time % 60
       hrs = math.floor(time / 60)
-         wrfout = Dataset('{}wrfout_d01_0001-01-01_{:02d}:{:02d}:00'.format(dir, hrs, mins)) #Format of the name of the output file must be corrected  accordingly
+      wrfout = Dataset('{}wrfout_d01_0001-01-01_{:02d}:{:02d}:00'.format(dir, hrs, mins)) #Format of the name of the output file must be corrected  accordingly
       return wrfout
 
    def relax_zone_remover (input, sr):
