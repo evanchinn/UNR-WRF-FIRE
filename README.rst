@@ -1,5 +1,5 @@
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.6879096.svg
-   :target: https://doi.org/10.5281/zenodo.6879096
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.6667633.svg
+   :target: https://doi.org/10.5281/zenodo.6667633
    
 WRF-Fire Wiki
 =============
