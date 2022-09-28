@@ -18,7 +18,7 @@ Please cite this work as:
 
 .. code-block:: none
 
-   Shamsaei, K., Juliano, T., Igrashkina, N., Ebrahimian, H., Kosovic, B., Taciroglu, E. WRF-Fire Wikipage, https://unr-wrf-fire.rtfd.io [access date]
+   Shamsaei, K., Juliano, T., Igrashkina, N., Ebrahimian, H., Kosovic, B., Taciroglu, E. (2022) WRF-Fire Wikipage. doi: 10.5281/zenodo.6667633 [access date]
     
 .. note::
 
